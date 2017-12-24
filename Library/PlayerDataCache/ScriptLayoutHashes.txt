@@ -134,6 +134,7 @@ c2275a8bfbb9f9942cad75ecdfded41d UnityEngine.HoloLens.dll:UnityEngine.XR.WSA.Spa
 05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:Vuforia.HideExcessAreaBehaviour
 387ef655a40a5a09b4b289e4961f5583 Assembly-CSharp.dll:Vuforia.CylinderTargetBehaviour
 67b48974ce9eba2f5f42615d194258b7 Assembly-CSharp.dll:Vuforia.MaskOutBehaviour
+05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.YedekGecis
 1bd73dc08780414ea7c06375d2fbc18e Assembly-CSharp.dll:UnityChan.SpringCollider
 fc1e0f4d8439d9928083474691511a13 UnityEngine.Networking.dll:UnityEngine.Networking.NetworkAnimator
 05524b8f659e7bfe5756d1335fec24ba UnityEngine.Networking.dll:UnityEngine.Networking.NetworkBehaviour
@@ -171,4 +172,3 @@ c2275a8bfbb9f9942cad75ecdfded41d UnityEngine.HoloLens.dll:UnityEngine.XR.WSA.Spa
 b8dbaba0490ba4b6cdadfc4782937f50 Assembly-CSharp.dll:UnityChan.SpringBone
 d2a2bd333db22f480a8589e167314ecc Assembly-CSharp.dll:Vuforia.UserDefinedTargetBuildingBehaviour
 7cac06ac0eaa7257b831c29e4455ce1b Assembly-CSharp.dll:Vuforia.VuforiaConfiguration
-05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.YedekGecis

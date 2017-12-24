@@ -5,6 +5,7 @@ using UnityEngine;
 public class animate : MonoBehaviour {
 	private Animation anim;
 	// Use this for initialization
+
 	void Start () {
 		anim = GetComponent<Animation> ();
 	}
